@@ -207,6 +207,7 @@
      width: 594px;
      text-align: center;
      margin: auto;
+     padding-bottom: 48px;
 }
 .insta-content h3{
     color: #272727;
@@ -224,7 +225,6 @@
 .images-insta{
    display: flex;
    gap: 24px;
-   margin-top:48px ;
    margin-bottom:128px ;
 }
 
