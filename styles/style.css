@@ -14,7 +14,6 @@
    
    
     height: 850px;
-    width: 1920px;
     margin: 0 auto;
     background: rgba(229, 84, 115, 0.10);
     overflow: hidden;
@@ -22,7 +21,7 @@
 .banner-container{
    max-width: 1440px;
    width: 96%;
-   margin: auto;
+   margin: 0 auto;
    background-image: url("../images/pngwing 10.png");
    background-repeat: no-repeat;
    height: 100%;
@@ -165,7 +164,6 @@
 /*hot deal section start*/
 .hot-deal{
     height: 620px;
-    width: 1920px;
     background: #E554730D;
     margin: 128px auto;
 }
@@ -198,4 +196,36 @@
     margin-bottom:52px ;
 }
 
-/*end8/
+/*end*/
+.instagram-container{
+    max-width: 1440px;
+    width: 96%;
+    margin: auto;
+}
+
+.insta-content{
+     width: 594px;
+     text-align: center;
+     margin: auto;
+}
+.insta-content h3{
+    color: #272727;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+}
+.insta-content p{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+.images-insta{
+   display: flex;
+   gap: 24px;
+   margin-top:48px ;
+   margin-bottom:128px ;
+}
+
+
