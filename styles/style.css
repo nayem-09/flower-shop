@@ -221,7 +221,7 @@
 /*end */
 
 /* deal section */
-.hot-deals {
+.latest-deals {
   max-width: 1440px;
   width: 96%;
   height: 449px;
@@ -296,3 +296,4 @@
     font-size: 16px;
     font-weight: 400;
 }
+
